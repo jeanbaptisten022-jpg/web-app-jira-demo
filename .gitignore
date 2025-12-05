@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -137,3 +138,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+=======
+.terraform/
+*.zip
+terraform.tfstate
+terraform.tfstate.backup
+>>>>>>> 1eade50 (WEB-1: Update homepage styling #done)
